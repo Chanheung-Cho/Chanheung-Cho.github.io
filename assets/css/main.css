@@ -3427,7 +3427,7 @@ input, select, textarea {
 			background-size: 100% 100%;
 			content: '';
 			display: block;
-			height: 200%;
+			height: 100%;
 			left: 0;
 			position: absolute;
 			top: 0;
@@ -3437,7 +3437,7 @@ input, select, textarea {
 		#intro .logo img {
 			display: block;
 			margin-left: 0.25em;
-			width:200px;
+			width:400px;
 			height:200px;
 		}
 
