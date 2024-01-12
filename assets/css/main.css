@@ -3382,13 +3382,6 @@ input, select, textarea {
 		margin-right: 3em;
 		min-width: 22em;
 		width: 22em;
-		position: -webkit-sticky; /* Safari */
-    		position: sticky;
-    		top: 3.5em; /* Adjust this value based on your header's height */
-    		margin-right: 3em;
-    		min-width: 22em;
-    		width: 22em;
-    		overflow-y: auto; /* Enables scrolling within the sidebar */
 	}
 
 		#sidebar > * {
