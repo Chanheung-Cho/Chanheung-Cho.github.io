@@ -47,7 +47,7 @@
 			$search_input = $search.find('input');
 
 		$body
-			.on('click', '[href="#search"]', function(event) {
+			.on('click', '[href="#search"]{text-decoration: none;}', function(event) {
 
 				event.preventDefault();
 
